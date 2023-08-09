@@ -1,5 +1,5 @@
 
-This script can be used to assess data quality and run AOI analyses based on data gathered in Gorilla,
+This script can be used to assess data quality and run AOI analyses based on webcam-based eye-tracking data gathered in Gorilla,
 see gorilla.sc.
 You need to download 'advanced' eye tracking data (check manual on how to get this data),
 see https://support.gorilla.sc/support/troubleshooting-and-technical/localisation#eyetracking2 for more information.
@@ -14,4 +14,4 @@ running AOI analyses and visualizing data. Available from https://github.com/Ell
 Please check the code for comments with 'TO DO' to adapt the code to your current situation.
 This code comes without warranty.
 
-The folder 'files for data prepartion contains example files with example AOIs.
+The folder 'files for data preparation' contains example files with example AOIs.
