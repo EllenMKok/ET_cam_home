@@ -7,7 +7,7 @@ We are not affiliated with Gorilla and this script is not checked.
 This script is released under the MIT License.
 
 When using this script, please cite as
-Kok. E.M., van den Broek, G.S.E., Lyford, A. (2023). ET_cam_home. A script for assessing webcam-based eye-tracking data quality, 
+Kok. E.M., van den Broek, G.S.E., Lyford, A. (2025). ET_cam_home. A script for assessing webcam-based eye-tracking data quality, 
 running AOI analyses and visualizing data. Available from https://github.com/EllenMKok/ET_cam_home
 
 
